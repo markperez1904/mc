@@ -1,5 +1,5 @@
 # mc
-This is a repo dedicated to install forge onto a local PC to run, and also to setup a modded minecraft server.
+This is a repo dedicated to installing forge onto a local PC (macOS/Linux only).
 To setup forge onto your PC, check it out the "Minecraft w_ Mods Guide.pdf" file
 
 To install Minecraft Mods onto your PC, open up the terminal and paste in:
