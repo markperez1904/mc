@@ -1,5 +1,8 @@
 # mc
-To download all the files: open up the terminal and paste in:
+This is a repo dedicated to install forge onto a local PC to run, and also to setup a modded minecraft server.
+To setup forge onto your PC, check it out the "Minecraft w_ Mods Guide.pdf" file
+
+To install Minecraft Mods onto your PC, open up the terminal and paste in:
 ```
 cd ~/Downloads
 git clone https://github.com/markperez1904/mc.git
