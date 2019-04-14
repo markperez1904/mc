@@ -4,7 +4,12 @@ To download all the files: open up the terminal and paste in:
 cd ~/Downloads
 git clone https://github.com/markperez1904/mc.git
 ```
-To run this on a server, use these set of commands (root access)
+Prerequisites for Linux Server (Debian - root access)
+```
+apt update && apt upgrade
+apt install vim curl wget git screen openjdk-8-jdk-headless
+```
+To build a Minecraft Server, use these set of commands (root access)
 ```
 cd /opt
 git clone https://github.com/markperez1904/mc.git && cd /opt/mc
