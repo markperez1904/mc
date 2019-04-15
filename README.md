@@ -20,6 +20,10 @@ java -jar forge-1.12.2-14.23.5.2768-installer.jar --installServer
 echo "eula=true" > eula.txt
 chmod +x mc.sh && ./mc.sh
 ```
+To launch Server:
+```
+cd /opt/mc ; ./mc.sh
+```
 To delete Modded Minecraft Server:
 ```
 rm -rf /opt/mc
