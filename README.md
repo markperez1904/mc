@@ -7,6 +7,13 @@ To install Minecraft Mods onto your PC, open up the terminal and paste in:
 cd ~/Downloads
 git clone https://github.com/markperez1904/mc.git
 ```
+
+Install the modpack
+1. Download the modpack here: https://www.curseforge.com/minecraft/modpacks/life-in-the-village-lite/files/2915654
+2. unzip it
+3. only copy and paste the folders (not the files) into your minecraft folder
+4. Finally, paste the "OptiFine_1.12.2_HD_U_F5.jar" file (from my repo) into the mods folder too
+
 Prerequisites for Linux Server (Debian - root access)
 ```
 apt update && apt upgrade
