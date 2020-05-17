@@ -9,13 +9,12 @@ git clone https://github.com/markperez1904/mc.git
 ```
 
 ### Install the modpack
-1. Download the modpack ([download link](https://www.curseforge.com/minecraft/modpacks/life-in-the-village-lite/files/2915654))
+1. Download my modpack ([download link](https://drive.google.com/file/d/1Ug443Z3S07fcbhvcXMjXg71WSmhrDmhy/view))
 2. unzip it
 3. only copy/paste the folders (not the files) into your minecraft folder
-4. copy the mod files from my repo, and paste them into the minecraft mods folder
-5. install this mod file. it's too big to upload on github ([download link](https://www.curseforge.com/minecraft/mc-mods/lycanites-mobs/files/2935745))
-6. finally, set your minecraft game to at least 3GB of RAM ([tutorial link](https://cubedhost.com/help/en/articles/1648388-how-do-i-allocate-more-memory-to-my-minecraft-launcher-client-side))
-7. ***Optional***: if it doesn't work, make sure to install forge version (from my repo)
+4. copy the optifine mod file from my repo, and paste it into the minecraft mods folder
+5. finally, set your minecraft game to at least 3GB of RAM ([tutorial link](https://cubedhost.com/help/en/articles/1648388-how-do-i-allocate-more-memory-to-my-minecraft-launcher-client-side))
+6. ***Optional***: if it doesn't work, make sure to install forge version (from my repo)
 
 #### Prerequisites for Linux Server (Debian - root access)
 ```
