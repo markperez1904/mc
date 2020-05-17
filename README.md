@@ -14,7 +14,7 @@ git clone https://github.com/markperez1904/mc.git
 3. only copy/paste the folders (not the files) into your `.minecraft` folder
 4. copy the optifine mod file from my repo, and paste it into the `.minecraft/mods` folder
 5. finally, set your minecraft game to at least 3GB of RAM ([tutorial link](https://cubedhost.com/help/en/articles/1648388-how-do-i-allocate-more-memory-to-my-minecraft-launcher-client-side))
-6. ***Optional***: if it doesn't work, make sure to install forge version (from my repo)
+6. ***Optional***: if it doesn't work, make sure to install forge version (from my repo) ([win-installer download link](https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-installer-win.exe))
 
 #### Prerequisites for Linux Server (Debian - root access)
 ```
