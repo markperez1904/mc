@@ -12,8 +12,9 @@ git clone https://github.com/markperez1904/mc.git
 1. Download the modpack here: https://www.curseforge.com/minecraft/modpacks/life-in-the-village-lite/files/2915654
 2. unzip it
 3. only copy/paste the folders (not the files) into your minecraft folder
-4. copy/paste the "OptiFine_1.12.2_HD_U_F5.jar" file (from my repo) into the mods folder too
+4. copy the mod files from my repo, and paste them into the minecraft mods folder
 5. finally, set your minecraft game to at least 3GB of RAM: https://cubedhost.com/help/en/articles/1648388-how-do-i-allocate-more-memory-to-my-minecraft-launcher-client-side
+6. (optional) if it doesn't work, make sure to install forge version (from my repo).
 
 #### Prerequisites for Linux Server (Debian - root access)
 ```
