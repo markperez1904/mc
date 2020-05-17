@@ -9,7 +9,7 @@ git clone https://github.com/markperez1904/mc.git
 ```
 
 ### Install the modpack
-1. Download my modpack ([download link](https://drive.google.com/file/d/1Ug443Z3S07fcbhvcXMjXg71WSmhrDmhy/view))
+1. Download my modpack ([download link](https://drive.google.com/file/d/1r_VesXPn8Q-U2VXLq1zL5fSzAzGg7UYb/view))
 2. unzip it
 3. only copy/paste the folders (not the files) into your minecraft folder
 4. copy the optifine mod file from my repo, and paste it into the minecraft mods folder
