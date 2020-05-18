@@ -9,9 +9,9 @@ git clone https://github.com/markperez1904/mc.git
 ```
 
 ### Install the modpack
-1. Download my modpack ([download link](https://drive.google.com/file/d/1r_VesXPn8Q-U2VXLq1zL5fSzAzGg7UYb/view))
+1. Download my modpack ([download link](https://drive.google.com/file/d/1dypZ70c8h1dfeGnEBa_m6NFPzyRPSmRH/view))
 2. unzip it
-3. only copy/paste the folders (not the files) into your `.minecraft` folder
+3. only copy/paste the folders (not the files) into your `.minecraft` folder (merge & replace if necessary)
 4. copy the optifine mod file from my repo, and paste it into the `.minecraft/mods` folder
 5. finally, set your minecraft game to at least 3GB of RAM ([tutorial link](https://cubedhost.com/help/en/articles/1648388-how-do-i-allocate-more-memory-to-my-minecraft-launcher-client-side))
 6. ***Optional***: if it doesn't work, make sure to install forge version (from my repo) ([win-installer download link](https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-installer-win.exe))
