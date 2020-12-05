@@ -14,7 +14,7 @@ git clone https://github.com/markperez1904/mc.git
 3. Only copy/paste the folders (**NOT** the files) into your `.minecraft` folder (merge & replace if prompted)
 4. Download `OptiFine_1.12.2_HD_U_F5.jar` ([download link](https://github.com/markperez1904/mc/raw/master/mods/OptiFine_1.12.2_HD_U_F5.jar)), and copy/paste it into `.minecraft/mods` folder
 5. finally, set your minecraft game to at least 3GB of RAM ([tutorial link](https://cubedhost.com/help/en/articles/1648388-how-do-i-allocate-more-memory-to-my-minecraft-launcher-client-side))
-6. ***Optional***: if it doesn't work, make sure to install forge version ([macOS/Linux download](https://github.com/markperez1904/mc/raw/master/forge-1.12.2-14.23.5.2854-installer.jar)) ([Windows download](https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-installer-win.exe))
+6. ***Required***: if it doesn't work, make sure to install forge version ([macOS/Linux download](https://github.com/markperez1904/mc/raw/master/forge-1.12.2-14.23.5.2854-installer.jar)) ([Windows download](https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-installer-win.exe))
 
 #### Prerequisites for Linux Server (Debian - root access)
 ```
