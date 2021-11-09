@@ -12,7 +12,7 @@ git clone https://github.com/markperez1904/mc.git
 1. Download my modpack fork ([download link](https://drive.google.com/file/d/10RfV8vnSGho8Sl6YXomXgM3ZGPRsAEF7/view?usp=sharing))
 2. Unzip it
 3. Only copy/paste the folders (**NOT** the files) into your `.minecraft` folder (merge & replace if prompted)
-4. Download `OptiFine_1.12.2_HD_U_F5.jar` ([download link](https://github.com/markperez1904/mc/raw/master/mods/OptiFine_1.12.2_HD_U_F5.jar)), and copy/paste it into `.minecraft/mods` folder
+4. Download `OptiFine_1.12.2_HD_U_G5.jar` ([download link](https://github.com/markperez1904/mc/raw/master/OptiFine_1.12.2_HD_U_G5.jar)), and copy/paste it into `.minecraft/mods` folder
 5. Finally, set your minecraft game to at least 3GB of RAM ([tutorial link](https://cubedhost.com/help/en/articles/1648388-how-do-i-allocate-more-memory-to-my-minecraft-launcher-client-side))
 6. ***Required***: Install latest forge version for 1.12.2 ([download link](https://github.com/markperez1904/mc/raw/master/forge-1.12.2-14.23.5.2847-installer.jar))
 
