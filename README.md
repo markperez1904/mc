@@ -9,7 +9,7 @@ git clone https://github.com/markperez1904/mc.git
 ```
 
 ### Install the modpack
-1. Download my modpack fork ([download link](https://drive.google.com/file/d/1cTQVGYhTuxidov9X81ZNRhU7j3uZmxee/view?usp=sharing))
+1. Download my modpack fork ([download link](https://drive.google.com/file/d/10RfV8vnSGho8Sl6YXomXgM3ZGPRsAEF7/view?usp=sharing))
 2. Unzip it
 3. Only copy/paste the folders (**NOT** the files) into your `.minecraft` folder (merge & replace if prompted)
 4. Download `OptiFine_1.12.2_HD_U_F5.jar` ([download link](https://github.com/markperez1904/mc/raw/master/mods/OptiFine_1.12.2_HD_U_F5.jar)), and copy/paste it into `.minecraft/mods` folder
